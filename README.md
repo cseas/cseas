@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 
 🔭 I've worked on the following websites:
 - https://hazel-ui.github.io/hazel-ui [Design system] - Lead developer
-- http://hazel-ui.github.io/ [Docs] - Lead developer
-- http://www.absingh.com/ [Blog] - Lead developer
-- http://blog.glugmvit.com/ [Blog] - Lead developer
-- http://leomvit.com/ [Blog] - Lead developer
+- https://hazel-ui.github.io/ [Docs] - Lead developer
+- https://www.absingh.com/ [Blog] - Lead developer
+- https://blog.glugmvit.com/ [Blog] - Lead developer
+- https://leomvit.com/ [Blog] - Lead developer
 - https://glugmvit.com/ [Community] - DevOps
 - https://mozillaindia.org/ [Community] - Mentor
-- http://gwoc.glugmvit.com/ [Event] - Architect
+- https://gwoc.glugmvit.com/ [Event] - Architect
 - https://rd.dk/ [Commercial] - Frontend developer
-- http://talentfore.com/ [Commercial] - Frontend developer
+- https://talentfore.com/ [Commercial] - Frontend developer
 
 🌱 I hang around the following communities:
 - https://community.mozilla.org/en/groups/mozilla-karnataka-blr/ [Professionals]
