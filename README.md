@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 🌱 I hang around the following communities:
 - https://community.mozilla.org/en/groups/mozilla-karnataka-blr/ [Professionals]
-- https://community.mozilla.org/en/groups/mozilla-reps/?view=people
+- https://community.mozilla.org/en/groups/mozilla-reps/?view=people [Professionals]
 - https://t.me/codeshack [Students]
 - https://studentambassadors.microsoft.com/ [Students]
