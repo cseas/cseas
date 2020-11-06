@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - https://mozillaindia.org/ [Community] - Mentor
 - https://gwoc.glugmvit.com/ [Event] - Architect
 - https://rd.dk/ [Commercial] - Frontend developer
-- https://talentfore.com/ [Commercial] - Frontend developer
+- [https://talentfore.com/](https://tfprogress.netlify.app/) [Commercial] - Frontend developer
 
 🌱 I hang around the following communities:
 - https://community.mozilla.org/en/groups/mozilla-karnataka-blr/ [Professionals]
