@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I've worked on the following websites:
+<details>
+  <summary>🔭 I've worked on some websites</summary>
+  
 - https://hazel-ui.github.io/hazel-ui [Design system] - Lead developer
 - https://hazel-ui.github.io/ [Docs] - Lead developer
 - https://www.absingh.com/ [Blog] - Lead developer
@@ -28,9 +30,15 @@ Here are some ideas to get you started:
 - https://gwoc.glugmvit.com/ [Event] - Architect
 - https://rd.dk/ [Commercial] - Frontend developer
 - [https://talentfore.com/](https://tfprogress.netlify.app/) [Commercial] - Frontend developer
+</details>
 
-🌱 I hang around the following communities:
+<details>
+  <summary>🌱 I hang around some communities</summary>
+  
 - https://community.mozilla.org/en/groups/mozilla-karnataka-blr/ [Professionals]
 - https://community.mozilla.org/en/groups/mozilla-reps/?view=people [Professionals]
 - https://t.me/codeshack [Students]
 - https://studentambassadors.microsoft.com/ [Students]
+</details>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thatniceman/)
