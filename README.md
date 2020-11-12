@@ -20,16 +20,19 @@ Here are some ideas to get you started:
 <details>
   <summary>🔭 I've worked on some websites</summary>
   
-- https://hazel-ui.github.io/hazel-ui [Design system] - Lead developer
-- https://hazel-ui.github.io/ [Docs] - Lead developer
-- https://www.absingh.com/ [Blog] - Lead developer
-- https://blog.glugmvit.com/ [Blog] - Lead developer
-- https://leomvit.com/ [Blog] - Lead developer
-- https://glugmvit.com/ [Community] - DevOps
-- https://mozillaindia.org/ [Community] - Mentor
-- https://gwoc.glugmvit.com/ [Event] - Architect
-- https://rd.dk/ [Commercial] - Frontend developer
-- [https://talentfore.com/](https://tfprogress.netlify.app/) [Commercial] - Frontend developer
+|Project|Type|Role|
+|-|-|-|
+|[Hazel UI](https://hazel-ui.github.io/hazel-ui)|Design system|Lead developer|
+|[Hazel UI](https://hazel-ui.github.io/)|Docs|Lead developer|
+|[Personal](https://www.absingh.com/)|Blog|Lead developer|
+|[GLUG MVIT](https://blog.glugmvit.com/)|Blog|Lead developer|
+|[LEO](https://leomvit.com/)|Blog|Lead developer|
+|[GLUG MVIT](https://glugmvit.com/)|Community|DevOps|
+|[Mozilla India](https://mozillaindia.org/)|Community|Mentor|
+|[GWOC](https://gwoc.glugmvit.com/)|Event|Architect|
+|[Realkredit Danmark](https://rd.dk/)|Commercial|Frontend developer|
+|[Boligværktøjet](https://danskebank.dk/bolig/)|Commercial|Frontend developer|
+|[TalentFore](https://tfprogress.netlify.app/)|Commercial|Frontend developer|
 </details>
 
 <details>
