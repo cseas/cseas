@@ -1,6 +1,4 @@
-### Hi 👋
-
-I'm a full snack developer 🍔  
+A full snack developer 🍔  
 Often found around community initiatives, open-source projects, and dogs.
 
 <details>
