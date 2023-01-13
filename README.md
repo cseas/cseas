@@ -36,7 +36,7 @@ Often found around community initiatives, open-source projects, and dogs.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thatniceman/)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=cseas&count_private=true&include_all_commits=true&show_icons=true&theme=vue)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cseas&theme=soft-green&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 #### Languages & Tools
 
